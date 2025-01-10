@@ -40,7 +40,7 @@ O episódio é uma introdução acessível e de linguagem simples, ideal para qu
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo escrito e auditivo, abrindo novos caminhos para a produção de mídia digital.
 ```
 
-## 👨‍💻 Expert
+## 👨‍💻 Aprendiz
 
 <p>
     <img 

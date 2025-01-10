@@ -20,22 +20,23 @@ Olá pessoal, segue Podcast desenvolvido para o primeiro desafio do Bootcamp Cai
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast: Aprendendo sobre Open Finance de forma divertida com as IAs 🎙️
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este podcast com pouco mais de 2 minutos oferece um conteúdo super direto, com linguagem simples e um toque descontraído sobre o que é open finance.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[Synthesia](https://app.synthesia.io)** para criação da voz e video;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "Synthesia" ajudou a criar uma voz sintética para a narração, e as imagens para construção do video.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio é uma introdução acessível e de linguagem simples, ideal para quem busca uma compreensão rápida do assunto.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo escrito e auditivo, abrindo novos caminhos para a produção de mídia digital.
 ```
 
 ### Exemplos e Insigths

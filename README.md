@@ -4,7 +4,7 @@
     <img width="400" src="Podcast1.PNG">
 </p>
 
-Confira o meu Podcast aqui [LINK](http://share.synthesia.io/05d41649-f4c0-4966-b9da-0b46984eebd9)
+                               Confira o meu Podcast aqui [LINK](http://share.synthesia.io/05d41649-f4c0-4966-b9da-0b46984eebd9)
 
 ## 🚀 Introdução
 

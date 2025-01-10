@@ -1,5 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
+Confira o meu Podcast aqui [Podcast](/exemplos/PODCAST.md)
+
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀

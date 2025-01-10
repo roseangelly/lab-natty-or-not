@@ -40,4 +40,30 @@ O episódio é uma introdução acessível e de linguagem simples, ideal para qu
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo escrito e auditivo, abrindo novos caminhos para a produção de mídia digital.
 ```
 
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="./exemplos/IMG_5455_edited.jpg"
+    />
+    <p>&nbsp&nbsp&nbspRose Angelly<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/roseangelly">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/
+rose-angelly-cabral-022059225">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/rose.angelly/profilecard/?igsh=MXZ5bxOTIxeGIndw==/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por uma corredora apaixonada e curiosa no mundo da IA [Rose Angelly](https://github.com/roseangelly)
 
